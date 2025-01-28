@@ -115,7 +115,7 @@ public class Student extends Person{
     - Implement "setter" and "getter" methods for the new instance variable.
     - Override one of the inherited methods from the HighSchoolStudent class, providing a distinct implementation.
     - Create a unique method specific to the Freshman class, showcasing the distinctive attributes or behaviors associated with freshmen.
-5. Write a Freshman subclass that extends the HighSchoolStudent class.
+5. Write a Senior subclass that extends the HighSchoolStudent class.
     - Extend the HighSchoolStudent class to inherit its properties and methods.
     - Introduce a new instance variable, exclusive to the Senior class, representing a characteristic pertinent to seniors. Choose an appropriate name for this variable.
     - Write a constructor for the Senior class. Use the super reference along with the necessary parameters to initialize inherited values and the newly introduced variable.
