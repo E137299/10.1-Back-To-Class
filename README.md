@@ -11,7 +11,7 @@ Both the Freshman and Senior classes will extend the HighSchoolStudent class. Fo
 
 The inheritance hierarchy follows: 
 
-![Inheritance Heirachy](assets/inheritance.PNG)
+![Inheritance Heirachy](inheritance.PNG)
 
 
 Here is the Person base class from the lesson to be used as a starting point for the Teacher class: 
