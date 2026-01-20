@@ -1,6 +1,6 @@
 # 10.1-Back-To-School
 ## Background: 
-The HighSchool application, as explained in the lesson, comprises two classes: the Person superclass and the Student subclass. In this lab, you will create four classes—Teacher, HighSchoolStudent, Freshman, and Senior—utilizing the concept of inheritance.
+The HighSchool application, as explained in the lesson, comprises two classes: the Person superclass and the Student subclass. In this lab, you will create four classes—Teacher, HighSchoolStudent, Freshman, and Senior utilizing the concept of inheritance.
 
 The Teacher class, resembling the Person class, will possess additional properties such as salary (indicating the teacher's earnings) and subject (e.g., "Computer Science," "Chemistry," "English," and "Other").
 
